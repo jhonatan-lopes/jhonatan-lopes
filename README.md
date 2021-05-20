@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/4b3d1324ddaac995ec2c00780231d2455dcfa68f/Assets/Banner.svg "Header")](https://drjplopes.com/)
+[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/c7fc468c09175644c36b23094a1faf335b4c63f2/Assets/Banner.svg "Header")](https://drjplopes.com/)
 
 # Hello, there!
 
