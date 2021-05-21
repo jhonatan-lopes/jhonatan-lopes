@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/4b3d1324ddaac995ec2c00780231d2455dcfa68f/Assets/Banner.svg "Header")](https://drjplopes.com/)
+[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/c7fc468c09175644c36b23094a1faf335b4c63f2/Assets/Banner.svg "Header")](https://drjplopes.com/)
 
 # Hello, there!
 
@@ -25,10 +25,10 @@ My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jhonatan-lopes/jhonatan-lopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-lopes&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=9e8568&bg_color=000000&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-lopes&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=9e8568&bg_color=000000&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/jhonatan-lopes/jhonatan-lopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-lopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=9e8568&bg_color=000000" alt="Jhonatan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-lopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=9e8568&bg_color=000000&hide_border=true" alt="Jhonatan's GitHub Stats" />
 </a>
 
 
