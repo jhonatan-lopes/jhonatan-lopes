@@ -1,5 +1,4 @@
-
-[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/c7fc468c09175644c36b23094a1faf335b4c63f2/Assets/Banner.svg "Header")](https://drjplopes.com/)
+[![Header](https://github.com/jhonatan-lopes/jhonatan-lopes/blob/10df1633e2b3b82305f4748b35242336f7efd5a7/Assets/Banner.svg "Header")](https://drjplopes.com/)
 
 # Hello, there!
 
@@ -30,6 +29,4 @@ My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'
 <a href="https://github.com/jhonatan-lopes/jhonatan-lopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-lopes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=9e8568&bg_color=000000&hide_border=true" alt="Jhonatan's GitHub Stats" />
 </a>
-
-
 
