@@ -2,7 +2,7 @@
 
 # Hello, there!
 
-My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'm from Brazil, currently working in the UK for the Department of Engineering Science at the University of Oxford. I'm interested in the intersection between applied mathematics and software development — algorithms, computational mechanics, numerical methods, data science/visualisation. I'm also interested in mechanical design problems that can put theoretical data into practice. You can find me on [my website](https://drjplopes.com) or on [Linkedin](https://www.linkedin.com/in/jhonatan-dapontelopes).
+My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'm from Brazil, currently working as a Data Scientist for Reg Metrics. I'm interested in the intersection between applied mathematics and software development — algorithms, computational mechanics, numerical methods, data science/visualisation. I'm also interested in mechanical design problems that can put theoretical data into practice. You can find me on [my website](https://drjplopes.com) or on [Linkedin](https://www.linkedin.com/in/jhonatan-dapontelopes).
 
 
 ## 🔧 Technologies & Tools
