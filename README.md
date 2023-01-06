@@ -2,26 +2,17 @@
 
 # Hello, there!
 
-My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'm from Brazil, currently working as a Data Scientist for Reg Metrics. I'm interested in the intersection between applied mathematics and software development — algorithms, computational mechanics, numerical methods, data science/visualisation. I'm also interested in mechanical design problems that can put theoretical data into practice. You can find me on [my website](https://drjplopes.com) or on [Linkedin](https://www.linkedin.com/in/jhonatan-dapontelopes).
+My name is Jhonatan Lopes and I'm a mechanical engineer/scientist/programmer. I'm from Brazil, currently working as a Developer for Torchbox. I'm interested in the intersection between applied mathematics and software development — algorithms, computational mechanics, numerical methods, data science/visualisation. I'm also interested in mechanical design problems that can put theoretical data into practice. You can find me on [my website](https://drjplopes.com) or on [Linkedin](https://www.linkedin.com/in/jhonatan-dapontelopes).
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Code-LabVIEW-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
+![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-
-![](https://img.shields.io/badge/Tools-FEA-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Tools-CFD-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Tools-ABAQUS-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Tools-ANSYS-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/Tools-SolidWorks-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=0d0d0d&color=9e8568&logoColor=white)
+
 
 
 
